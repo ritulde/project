@@ -1,0 +1,92 @@
+/* X-Small devices (portrait phones, less than 576px)*/
+@media (min-width: 0px) and  (max-width: 575.98px) {
+    .navbar-brand{
+        font-size: 18px;
+    }
+    .nav-link{
+        font-size: 12px;
+    }
+   
+    
+    .copywrite {
+        margin-top: 40px;
+    }
+    .display-4 {
+        font-size: calc(1.475rem + 2.7vw);
+        font-weight: 400;
+        line-height: 1.0;
+    }
+    .card{
+        margin: 0 auto;
+        margin-bottom: 15px;
+        width: 18rem;
+    }
+
+}
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (min-width:576px) and (max-width: 767.98px) {
+    .navbar-brand{
+        font-size: 28px;
+    }
+    .nav-link{
+        font-size: 16px;
+    }
+    .card{
+        margin: 0 auto;
+        margin-bottom: 15px;
+        width: 32rem;
+    }
+    .copywrite {
+        margin-top: 40px;
+    }
+    
+    
+}
+/* Medium devices (tablets, less than 992px)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .navbar-brand{
+        font-size: 30px;
+    }
+    .nav-link{
+        font-size: 17px;
+    }
+    .copywrite {
+        margin-top: 40px;
+    }
+    .card{
+        margin-bottom: 20px;
+    }
+ }
+
+/* Large devices (desktops, less than 1200px)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .navbar-brand{
+        font-size: 32px;
+    }
+    .nav-link{
+        font-size: 20px;
+    }
+    .copywrite {
+        margin-top: 40px;
+    }
+    .card{
+        width: 14.5rem;
+    }
+   
+ }
+
+/* X-Large devices (large desktops, less than 1400px)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .navbar-brand{
+        font-size: 36px;
+    }
+    .nav-link{
+        font-size: 24px;
+    }
+    .card{
+        width: 17.4rem;
+    }
+   
+
+}

@@ -1,0 +1,66 @@
+.carousel-caption {
+    color:#05445E;
+}
+.main_heading{
+    background-color: #E6E6FA;
+}
+.main_heading1 {
+    background-color: #D4F1F4;
+}
+.main_heading2{
+    background-color: #E6E6FA  ;
+}
+.main_contact{
+    background-color:#D4F1F4 ;
+}
+.bi-facebook{
+    color: #3b5998;
+}
+.bi-instagram{
+    color:#8134AF ;
+}
+.bi-twitter{
+    color: #00acee ;
+
+}
+.bi-linkedin{
+    color: #0e76a8;
+
+}
+.footer{
+    background-color: #05445E;
+}
+.copywrite{
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.connect{
+    font-size: 24px;
+}
+.navbar-brand{
+    font-size: 36px;
+}
+.nav-link{
+    font-size: 24px;
+}
+.navbar-light .navbar-brand {
+    color:lavender;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: whitesmoke;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:whitesmoke;
+}
+.navbar-light .navbar-toggler {
+    color:lavenderblush;
+    border-color: whitesmoke;
+}
+.bi-kanban-fill, .bi-person-circle, .bi-file-person-fill 
+{
+    background-color: #05445E ;
+    color: whitesmoke;
+
+}
